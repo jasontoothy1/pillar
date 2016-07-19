@@ -1,0 +1,4 @@
+  alan:
+    passwd: $6$random_salt$Pf/4AeI8M758hnP.VwNeN6dqMg1bkvxbTPa0iRzj8X7kvlO5Ww7qhCFSp60ypBWmd9Jfqxi0GYU/ZFQWg5onB.
+    uid: 2000
+    fullname: Alan Rubin

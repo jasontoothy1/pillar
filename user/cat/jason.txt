@@ -1,0 +1,4 @@
+  jason:
+    passwd: $6$random_salt$t45iCH.T7jVi7KV5pbMY0UGaQk.PnqwbK7Jnz4NqATtyZnZbvw9YzkNg0swCtu58RkJz4MhxCSxmLap8.7C7P/
+    uid: 1000
+    fullname: Jason Toothaker
